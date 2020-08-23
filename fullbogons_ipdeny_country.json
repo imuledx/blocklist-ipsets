@@ -1,0 +1,34 @@
+[
+	{
+		"code": "ES",
+		"value": 1024
+	},
+	{
+		"code": "FR",
+		"value": 1024
+	},
+	{
+		"code": "GB",
+		"value": 10752
+	},
+	{
+		"code": "IE",
+		"value": 1024
+	},
+	{
+		"code": "IT",
+		"value": 3072
+	},
+	{
+		"code": "MU",
+		"value": 2048
+	},
+	{
+		"code": "PT",
+		"value": 3072
+	},
+	{
+		"code": "RU",
+		"value": 2048
+	}
+]
